@@ -1,6 +1,6 @@
 {
     "name": "servo-mg996r-driver",
-    "version": "0.1.1",
+    "version": "0.1.4",
     "description": "servo mg996r's driver",
     "author": "lemonhall2012@qq.com",
     "main": "src/index.js"

@@ -4,7 +4,7 @@ Servo MG-996R 's Driver description if have.
 
 ## Device Model
 
-- [{MG-996}](https://rap.ruff.io/devices/{MG-996})
+- [{MG-996}](https://rap.ruff.io/devices/MG-996)
 
 > You can name {device-model} by {model-name} like gy-30 or {chip-name}-({interface}) like ssd1306-i2c.
 
@@ -52,3 +52,7 @@ Some notes about device or driver if have.
 Get the Source from :
 
 https://github.com/lemonhall/ruff-servo-mg996r-driver
+
+Get Demo from :
+
+https://github.com/lemonhall/mg996_demo
